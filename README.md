@@ -2,9 +2,9 @@
 Graphical TicTacToe made in Processing Java with AI algorithm (minimax)
 
 
-![img](Media/Menu.png)
+![img](media/Menu.png)
 
-![img](Media/Game.png)
+![img](media/Game.png)
 
 How to run:
  - Add libraries to your project that are in folder "ProcessingLib"
